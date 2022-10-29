@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.33a3f758.css",
+    "main.js": "./static/js/main.e0e666f9.js",
+    "static/js/787.1c251e4c.chunk.js": "./static/js/787.1c251e4c.chunk.js",
+    "static/media/JessePortrait.jpg": "./static/media/JessePortrait.41133d18de3a5d531ba1.jpg",
+    "static/media/churchlogo.jpg": "./static/media/churchlogo.81620c13cf9d5d07d0d8.jpg",
+    "static/media/kayaking.jpg": "./static/media/kayaking.8a5751148f381c52ee0e.jpg",
+    "static/media/Roboto-Regular.ttf": "./static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/binary.jpg": "./static/media/binary.3075f19194d5bee7670e.jpg",
+    "static/media/nebula.jpg": "./static/media/nebula.87a6b9892f89d92b8707.jpg",
+    "static/media/food.jpg": "./static/media/food.f08b21737d43551917f3.jpg",
+    "static/media/JClarkLogo.png": "./static/media/JClarkLogo.eb9bd48ead853ab46496.png",
+    "static/media/StadiumLogoPayson.png": "./static/media/StadiumLogoPayson.f77a04b432111a038f74.png",
+    "static/media/network.jpg": "./static/media/network.d47abf785e0ae4294777.jpg",
+    "static/media/order.jpg": "./static/media/order.80e90ad7fe2b1be9fdb3.jpg",
+    "static/media/node-network.jpg": "./static/media/node-network.8d66926b26ac5e0ad940.jpg",
+    "static/media/neurons.jpg": "./static/media/neurons.d4fc233543bcc84cd49d.jpg",
+    "static/media/byu.png": "./static/media/byu.1cd95a6197311172cdf0.png",
+    "static/media/ant.jpg": "./static/media/ant.f43ca939e558af1b97df.jpg",
+    "static/media/monochrome.jpg": "./static/media/monochrome.a9cc45a50a6c7775c062.jpg",
+    "static/media/aco.svg": "./static/media/aco.7819d6d8a14e73d91b94fb6384a0fe07.svg",
+    "index.html": "./index.html",
+    "main.33a3f758.css.map": "./static/css/main.33a3f758.css.map",
+    "main.e0e666f9.js.map": "./static/js/main.e0e666f9.js.map",
+    "787.1c251e4c.chunk.js.map": "./static/js/787.1c251e4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a3f758.css",
+    "static/js/main.e0e666f9.js"
+  ]
+}
