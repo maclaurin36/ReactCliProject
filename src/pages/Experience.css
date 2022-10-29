@@ -56,3 +56,11 @@
 #work-description {
     color: var(--text-gray);
 }
+
+@media only screen and (max-width: 800px) {
+
+    /* For tablets: */
+    .about-content {
+        width: 100%;
+    }
+}

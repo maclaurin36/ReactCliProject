@@ -39,7 +39,7 @@ const Layout = () => {
 
             <div class="footer-container">
                 <p>
-                    <a target="_blank" href="https://www.google.com">View on Github</a>
+                    <a target="_blank" href="https://github.com/maclaurin36/ReactCliProject/">View on Github</a>
                 </p>
             </div>
         </>
