@@ -1,0 +1,49 @@
+.about-content {
+    background-color: #fbfbfb;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.dual-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.dual-section .description {
+    max-width: 500px;
+    margin: 40px;
+}
+
+.dual-section .description h3 {
+    margin-bottom: 30px;
+}
+
+.dual-section img {
+    border-radius: 12px;
+    max-width: 400px;
+    margin: 40px;
+}
+
+.dual-section .description p {
+    color: #bbbbbb;
+}
+
+hr {
+    border: solid var(--primary-blue) 1px;
+    background-color: var(--primary-blue);
+    margin: 0 40px;
+}
+
+@media only screen and (max-width: 850px) {
+
+    /* For tablets: */
+    .about-content {
+        width: 100%;
+    }
+}
